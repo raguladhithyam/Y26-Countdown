@@ -68,7 +68,7 @@ const CountdownTimer = ({ targetDate }: CountdownTimerProps) => {
         </div>
       </div>
       <p className={styles.message}>
-      <span>Website launch on December 29</span>
+      <span>Website launching Soon...</span>
       </p>
     </div>
   );
